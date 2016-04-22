@@ -1,2 +1,3 @@
-Git is a distributed vesion control system.
-Git is frangzuixian@163.comee software.
+Git is a distributed vesion control syst
+zuixian@163.coangzuixian@163.com
+mee software.
